@@ -22,7 +22,7 @@ Verified design correctness through waveform generation.
 
 Tools Used:
 
-Simulation & Verification: Cadence Xcelium (or any simulator you used, e.g., ModelSim, Icarus Verilog, etc.)
+Simulation & Verification: Cadence Xcelium (or ModelSim, Icarus Verilog, etc.)
 
 2. Logical Synthesis
 
@@ -58,7 +58,7 @@ Timing Analysis – Ensured timing closure across all paths.
 
 Steps:
 
-Performed design rule checks (DRC) and layout vs schematic (LVS) verification.
+Performed Design Rule Checks (DRC) and Layout vs Schematic (LVS) verification.
 
 Generated the final GDSII file for tape-out.
 
